@@ -1,2 +1,3 @@
-# pekin
-A CLI expense tracker
+# Pekin
+
+A CLI expense tracker.
