@@ -7,8 +7,8 @@ A CLI expense tracker.
 | Every debit needs a credit.
 
 It's no secret that this project is inspired by 
-[GNUCash](https://www.gnucash.org/). I learned from there what is a 
-[Double-entry bookkeeping](https://en.wikipedia.org/wiki/Double-entry_bookkeeping).
+[GNUCash](https://www.gnucash.org/). I've learned from there what is a 
+[double-entry bookkeeping](https://en.wikipedia.org/wiki/Double-entry_bookkeeping).
 To undestand in a fast way, you can watch this
 [youtube video](https://www.youtube.com/watch?v=EibibVFEkvk) from
 [The Finance Storyteller](https://www.youtube.com/c/TheFinanceStoryteller).
