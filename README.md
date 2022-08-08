@@ -30,13 +30,13 @@ Main object containing all historic.
 
 The account can be a subaccount, every account is from a super account, those are:
 
-| Account Type | Description                          |
-|--------------|--------------------------------------|
-| Asset        | Things you own                       |
-| Equity       | Overall net worth                    |
-| Income       | Increases the value of your accounts |
-| Expense      | Decreases the value of your accounts |
-| Liability    | Things you owe                       |
+| Account Category | Description                          |
+|------------------|--------------------------------------|
+| Asset            | Things you own                       |
+| Equity           | Overall net worth                    |
+| Income           | Increases the value of your accounts |
+| Expense          | Decreases the value of your accounts |
+| Liability        | Things you owe                       |
 
 ### Transaction
 
