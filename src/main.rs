@@ -8,8 +8,10 @@ mod book;
 mod account;
 
 fn cli() -> Command<'static> {
-    Command::new("pekin")
+    Command::new(String::from(env!(CARGO_PKG_NAME)))
         .about("Simplified GNUCash for terminal.")
+        .version(env!("CARGO_PKG_VERSION"))
+        .author(String::from(env!(CARGO_PKG_AUTHORS)))
         .subcommand_required(true)
         .arg_required_else_help(true)
         .allow_external_subcommands(true)
