@@ -1,4 +1,3 @@
-use std::ptr::null;
 use sqlx::{Pool, Sqlite};
 use uuid::Uuid;
 
